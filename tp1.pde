@@ -3,7 +3,7 @@
            ------- TP1 -------
  Comision: Lisandro | Prof.Lisandro Peralta
  Alumna: Aguilar Nayla Belen(88106/6).
- Video:
+ Video: https://youtu.be/OSl1V3YMQHE
  */
 import oscP5.*; 
 Cuadro c;
